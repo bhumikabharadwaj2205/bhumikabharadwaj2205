@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="banner.png" alt="Banner" style="width:100%; border-radius:10px;" />  
 <h1 align="center" style="font-size: 32px; margin: 0;">Hello 👋, I'm Bharadwaj</h1>  
-<img align="right" alt="Data Monitoring" width="400" src="https://sl.bing.net/kRPxC7otY04">  
+<img align="right" alt="Data Monitoring" width="400" src="[https://sl.bing.net/kRPxC7otY04](https://wallpaperaccess.com/full/1325192.jpg)">  
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=bhumika-profile&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/> 
 </p>
