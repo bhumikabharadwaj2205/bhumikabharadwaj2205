@@ -3,7 +3,7 @@
 
 <h1 align="center" style="font-size: 32px; margin: 0;">Hello 👋, I'm Bharadwaj</h1>
 
-<img align="right" alt="Data Monitoring" width="400" src="https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif">
+<img align="right" alt="Data Analytics GIF" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/07/state2.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhumika-profile&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
