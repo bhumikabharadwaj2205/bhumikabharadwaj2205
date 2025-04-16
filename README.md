@@ -1,8 +1,9 @@
-![Github gif](https://media.giphy.com/media/26FLcaylACR47EqD6/giphy.gif)
+<!-- Banner -->
+<img src="banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
 
 <h1 align="center" style="font-size: 32px; margin: 0;">Hello 👋, I'm Bharadwaj</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
+<img align="right" alt="Data Monitoring" width="400" src="https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhumika-profile&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -30,7 +31,7 @@
   </a>
 </p>
 
-![Github gif]([https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif))
+---
 
 <h1 align="left">🌟 Highlights</h1>
 
