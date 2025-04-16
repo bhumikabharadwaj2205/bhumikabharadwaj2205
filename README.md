@@ -1,4 +1,4 @@
-![Github gif](https://github.com/user-attachments/assets/f480b412-c424-416f-9d45-8f660dabb559)
+![Github gif](https://media.giphy.com/media/26FLcaylACR47EqD6/giphy.gif)
 
 <h1 align="center" style="font-size: 32px; margin: 0;">Hello 👋, I'm Bhumika</h1>
 
