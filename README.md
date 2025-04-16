@@ -1,9 +1,8 @@
-<!-- Banner -->
-<img src="banner.png" alt="Banner" style="width:100%; border-radius:10px;" />
+![Github gif](https://media.giphy.com/media/26FLcaylACR47EqD6/giphy.gif)
 
 <h1 align="center" style="font-size: 32px; margin: 0;">Hello 👋, I'm Bharadwaj</h1>
 
-<img align="right" alt="Data Analytics GIF" width="400" src="[https://imarticus.org/blog/wp-content/uploads/2019/07/state2.gif](https://imarticus.org/blog/wp-content/uploads/2019/07/state2.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhumika-profile&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -31,15 +30,19 @@
   </a>
 </p>
 
+![Banner Image](https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif)
+
 ---
 
-<h1 align="left">🌟 Highlights</h1>
+## 🌟 Highlights
 
-<ul>
-  <li><strong>[Food Donation App]:</strong> Designed and deployed a web app for streamlining food redistribution using React.js and Node.</li><br>
-  <li><strong>[Cloud Image Upload]:</strong> Created a Python app that uploads and stores images on Google Cloud via Flask and Cloud Run.</li><br>
-  <li><strong>[Penguin Dataset Analysis]:</strong> Applied statistical methods and data visualization to extract insights and compare species.</li>
-</ul>
+- **📊 Designed a Power BI Dashboard** to track business KPIs like sales, profit, and customer churn—incorporated slicers and drill-down features for interactive storytelling.
+
+- **🗃️ Wrote SQL Queries** to analyze customer behavior from e-commerce data, using joins, aggregate functions, and subqueries to extract actionable insights.
+
+- **📜 Completed Google Data Analytics Professional Certificate** on Coursera, gaining hands-on experience with spreadsheets, SQL, R, and dashboarding tools.
+
+- **🤝 Contributed to a Non-Profit / Student Organization** by volunteering and helping deliver tutor training insights using Excel and Power BI. Worked on a collaborative data dashboard project, handling data wrangling, design, and interpretation tasks.
 
 ---
 
