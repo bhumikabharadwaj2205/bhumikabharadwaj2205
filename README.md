@@ -76,13 +76,3 @@
 </table>
 
 ---
-
-<details>
-   <summary><h2> 📊 Github Stats </h2></summary>
-   <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=bhumika-profile&theme=radical&hide_border=true&count_private=true" width="400"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumika-profile&theme=radical&hide_border=true" width="400"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika-profile&theme=radical&hide_border=true&layout=compact" width="400"/>
-     <img src="https://github-contributor-stats.vercel.app/api?username=bhumika-profile&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400"/>
-   </div>
-</details>
